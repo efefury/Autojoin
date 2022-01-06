@@ -1,7 +1,7 @@
 [
   {
-    "modid": "autojoin",
-    "name": "Autojoin",
+    "modid": "autoJoin",
+    "name": "AutoJoin",
     "description": "Automatically joins a server on startup",
     "version": "${version}",
     "mcversion": "${mcversion}",
