@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "autojoin",
+    "name": "Autojoin",
+    "description": "Automatically joins a server on startup",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Lulonaut"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
