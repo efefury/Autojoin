@@ -17,16 +17,6 @@ public class Config {
         config.save();
     }
 
-//    public static boolean getFirstRun() {
-//        return config.getBoolean("firstRun", category, false, "");
-//    }
-//
-//    public static void setFirstRun() {
-//        Property firstRun = config.get(category, "firstRun", false);
-//        firstRun.set(true);
-//        config.save();
-//    }
-
     public static boolean getToggle() {
         return config.getBoolean("toggle", category, true, "");
     }
@@ -36,5 +26,4 @@ public class Config {
         toggle.set(newToggle);
         config.save();
     }
-
 }
