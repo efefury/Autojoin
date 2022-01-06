@@ -48,5 +48,3 @@ sourceSets {
         output.resourcesDir = java.outputDir
     }
 }
-
-jar.enabled = false
