@@ -14,7 +14,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.gameevent.TickEvent;
 
-@Mod(modid = "autoJoin", name = "AutoJoin", version = "1.0", clientSideOnly = true)
+@Mod(modid = "autojoin", name = "AutoJoin", version = "1.0", clientSideOnly = true)
 public class AutoJoin {
 
     @Mod.EventHandler
